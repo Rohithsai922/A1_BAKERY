@@ -1,0 +1,73 @@
+
+body{
+background: url(back5.jpeg);
+background-repeat: no-repeat;
+  background-size: cover;
+aspect-ratio:1;
+padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+
+ }
+ul{
+margin:0px;
+padding:0px;
+}
+
+
+button{
+font-family:  "Brush Script MT", cursive;
+ display: inline;
+margin:80px;
+padding:0px;
+border-radius: 10px 100px / 120px;
+
+}
+button:hover {background-color: rgba(205, 209, 228, 1 )}
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.logo{
+     border-radius :50%;
+border: 4px solid black;
+     
+}
+.bg1{
+      opacity:0.6;
+}
+.review{
+   height:400;
+  width:800;
+}
+
+.background{
+width: 100%;
+  height: 100%;
+border-radius: 32px;
+border: 1px solid black;
+background-blend-mode:lighten;
+background-position: left;
+ background-color:rgba(0,0,0,0.7);
+  -webkit-backdrop-filter: blur(5px);
+box-shadow:5px 0 60px 0 ;
+
+
+
+
+ 
+}
+.background p{
+font-family:  "Brush Script MT", cursive;
+font-size: 40px;
+ color: white;
+text-indent: 50px;
+font-weight: bold;
+
+}
+
+
+

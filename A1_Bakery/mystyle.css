@@ -1,0 +1,15 @@
+button{
+ display: inline;
+ 
+margin:20px;
+}
+.logo{
+     border-radius :50%;
+}
+.bg1{
+      opacity:0.6;
+}
+.review{
+   height:400;
+  width:800;
+}
